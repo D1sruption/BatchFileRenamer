@@ -1,0 +1,1 @@
+Place this file in the directory that has the files you want to rename then execute with 'python ./batch_file_renamer.py'
